@@ -1,1 +1,1 @@
-# gaugesToVbo/__init__.py
+# GaugeSToVbo/__init__.py

@@ -1,4 +1,4 @@
-# gaugesToVbo
+# GaugeSToVbo
 
 A tool to convert gauge data to VBO format.
 
@@ -6,10 +6,10 @@ A tool to convert gauge data to VBO format.
 
 You can install the package using pip:
 
-pip install gaugesToVbo
+pip install GaugeSToVbo
 
 ## Usage
 
 To use the tool, run:
 
-gaugesToVbo input.csv output.vbo
+GaugeSToVbo input.csv output.vbo

@@ -129,7 +129,7 @@ def convert_csv_to_vbo(csv_path, vbo_path):
 
 def main():
     if len(sys.argv) != 3:
-        print("Usage: gaugesToVbo <input_csv> <output_vbo>")
+        print("Usage: GaugeSToVbo <input_csv> <output_vbo>")
         sys.exit(1)
     
     csv_file = sys.argv[1]
