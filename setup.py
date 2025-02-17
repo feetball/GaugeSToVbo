@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="GaugeSToVbo",
-    version="0.1.0",
+    version="0.1.6",
     author="Daniel Kuecker",
     author_email="daniel@kuecker.net",
     description="A tool to convert gauge.S data to VBO format",
